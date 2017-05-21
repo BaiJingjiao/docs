@@ -29,5 +29,6 @@ $ pyenv install --list
 $ pyenv install 3.6.1 -v
 Installed Python-3.6.1 to /Users/baijingjiao/.pyenv/versions/3.6.1
 
-alias python="/Users/baijingjiao/.pyenv/versions/3.6.1/bin/python3.6"                                                     "~/.bash_profile" 1L, 70C
+alias python="/Users/baijingjiao/.pyenv/versions/3.6.1/bin/python3.6"
+"~/.bash_profile" 1L, 70C
 ```
