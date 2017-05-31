@@ -9,3 +9,15 @@ python cookbook :https://github.com/yidao620c/python3-cookbook .
 ##### Deep Equality Test for Nested Python Structures https://gist.github.com/samuraisam/901117
 
 ##### http://emma.sourceforge.net
+
+最终选择JaCoCo。
+ 
+ http://wenku.baidu.com/link?url=dwvLMUN9TXem27Hos771lvpx-jU_sDqlGt5fEWCczAENwdfHLXPjUvOdLnHh6H7a5dx_NvSucpNk_guSdGBjX4g99kUKiUw6TZfpn5NgsRu
+ 大体的安装步骤如上的链接，下面我只是做 一些补充，和提供一个完整的例子 
+ 
+2. 关键 
+ http://www.eclemma.org/jacoco/trunk/doc/index.html
+ 英文比较牛的可以看下jacoco 官网解 
+ http://tauntaunslayer13.me/blog/2014/02/27/ru-he-shi-yong-jacocoyuan-cheng-tong-ji-tomcatfu-wu-de-fu-gai-lu/
+ 可以看结尾部分一问一答的回复，比较有利于理解这个工具
+
