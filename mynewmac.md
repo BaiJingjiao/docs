@@ -1,3 +1,11 @@
+##### 添加环境变量 .   
+```
+$ touch ~/.bash_profile
+$ open ~/.bash_profile
+alias python="/Users/baijingjiao/.pyenv/versions/3.6.1/bin/python3.6"
+export PATH=${PATH}:/Applications/apache-maven-3.5.0/bin;
+```
+
 ##### 安装brew https://brew.sh/index_zh-cn.html
 
 ##### 安装wget
