@@ -24,3 +24,5 @@ python cookbook :https://github.com/yidao620c/python3-cookbook .
 https://stackoverflow.com/questions/25630252/code-coverage-using-jacoco?s=15|2.5758
 
 jacoco:  https://github.com/eugenp/tutorials/tree/master/testing
+
+饿了么大前端：https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#%E7%B1%BB%E5%9E%8B%E5%88%A4%E6%96%AD
