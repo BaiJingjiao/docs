@@ -32,3 +32,7 @@ Installed Python-3.6.1 to /Users/baijingjiao/.pyenv/versions/3.6.1
 alias python="/Users/baijingjiao/.pyenv/versions/3.6.1/bin/python3.6"
 "~/.bash_profile" 1L, 70C
 ```
+ ##### maven
+ ```
+ mvn clean jetty:run -Djetty.port=8081
+ ```
