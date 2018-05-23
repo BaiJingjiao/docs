@@ -28,3 +28,15 @@ https://stackoverflow.com/questions/25630252/code-coverage-using-jacoco?s=15|2.5
 jacoco:  https://github.com/eugenp/tutorials/tree/master/testing
 
 饿了么大前端：https://github.com/ElemeFE/node-interview/blob/master/sections/zh-cn/js-basic.md#%E7%B1%BB%E5%9E%8B%E5%88%A4%E6%96%AD
+
+知乎推荐 国外最好的Top 10付费VPN推荐网: http://www.apsense.com/article/top-10vpnss.html
+-----------------------------------------------------------
+https://www.express-vpn-mirror.club/?a_aid=0512hunjia  
+国外最大的VPN 推荐
+不需要翻墙就可以打开
+
+30天退款保证,最好的vpn，最安全的
+
+没有流量限制,最快的VPN
+130多个网络节点，包括中国
+-----------------------------------------------------------
